@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nikhil Thakur  
 
-🚀 Full Stack Developer (MERN) | Problem Solver | Builder  
+🚀 Full Stack Developer passionate about building scalable web applications, exploring new technologies, and continuously improving through learning and coding challenges. Welcome to my GitHub profile!
 
 ---
 
