@@ -20,18 +20,18 @@
 ---
 
 ## 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Nikhilth123&show_icons=true&theme=radical)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=Nikhilth123&theme=radical)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilth123&layout=compact&theme=radical)
 
 ---
 
 ## 📈 Activity Graph
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikhilth123&theme=react-dark)
 
 ---
 
 ## 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikhil-thakur-8aa4612aa/)
